@@ -1,0 +1,22 @@
+Well.... We were expecting to catch the Oscars in a pickle. However, they seem to be not as influenced by money as we thought. The more we dig, the more we see that the only way to win awards or have a higher rated movie is to make a move and hope it goes well. It also looks like people are pretty nice when it comes to ratings, or the executives just dont approve movies that will be bad.
+
+So thank you for coming to my Ted Talk. Give me an A. Thanks babe <3
+
+Intro:
+
+set up, show imdb and rt are consistant ish.
+
+talk about limitations. of the data. that we have or we can get.
+    RT comes from streaming and they wont pay for shitty movies.
+
+Questions we asked:
+A little Blurb of what we expected to find
+what we did to find out
+what did we find
+was that consistent with what we found
+
+We define a good movie by IMDb and Rotten Tommatoe scores.
+
+Does money make a good moive?
+Does award mean good movies?
+Do who the movies are made for effects good movies?
